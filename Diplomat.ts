@@ -1,5 +1,5 @@
-import { Fortifiable } from '@civ-clone/base-unit-type-fortifiable/Fortifiable';
+import { Diplomatic } from '@civ-clone/base-unit-type-diplomatic/Diplomatic';
 
-export class Diplomat extends Fortifiable {}
+export class Diplomat extends Diplomatic {}
 
 export default Diplomat;
